@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 28 16:15:00 2021
-The Python script creates a function "image_extractor" that extracts 
-all the files with extension *.jpg from a directory..
-and then saves them into a separate directory with .tif extension.
-@author: pyada
-"""
-
 import os
 import pathlib
 from PIL import Image
